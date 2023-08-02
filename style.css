@@ -15,7 +15,8 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(60deg, #15a8fe 10%, #80d0c7 100%);
+    background-image: linear-gradient(160deg, #4d0491 10%, #771ac3 100%);
+    /*background-image: linear-gradient(60deg, #15a8fe 10%, #80d0c7 100%);*/
 }
 
 nav {
@@ -25,7 +26,8 @@ nav {
     position: relative;
     align-items: center;
     margin-top: 20px;
-    background-image: linear-gradient(60deg, #15a8fe 10%, #80d0c7 100%);
+    background-image: linear-gradient(160deg, #4d0491 10%, #771ac3 100%);
+    /*background-image: linear-gradient(60deg, #15a8fe 10%, #80d0c7 100%);*/
 }
 
 nav > a {
@@ -46,7 +48,8 @@ footer {
     bottom: 0;
     position: fixed;
     text-align: center;
-    background-image: linear-gradient(160deg, #15a8fe 10%, #80d0c7 100%);
+    background-image: linear-gradient(160deg, #4d0491 10%, #771ac3 100%);
+    /*background-image: linear-gradient(160deg, #15a8fe 10%, #80d0c7 100%);*/
 }
 
 footer > p {
